@@ -206,6 +206,9 @@ footer a:hover {
 
 /* Responsive tweaks */
 @media (max-width: 768px) {
+  body{
+    font-size:18px;
+  }
   #nav-menu {
     display: none;
   }
