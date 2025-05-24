@@ -216,7 +216,9 @@ footer a:hover {
   .hamburger {
     display: block;
   }
-
+  .hero-section{
+    min-height:40vh;
+  }
   .hero-section h1 {
     font-size: 2rem;
   }
